@@ -18,7 +18,8 @@ CZ1115 Introduction to Data Science and Artificial Intelligence [GER-Core] (no n
 MS1014 Materials Chemistery II [EF2 doesn't exist anymore] (no notes)
 
 
-## Y2S1 (only this sem will have markdown files, will convert all to pdf next sem on)
+## Y2S1
+### only this sem will have markdown files, will convert all to pdf next sem on
 CZ2002 Object Oriented Design and Programming\
 CZ2005 Operating Systems\
 CZ2100 Probability and Statistics for Computing\
