@@ -29,8 +29,8 @@ EE8084 Cybersecurity [UE]
 
 
 ## Y2S2 (current sem, no notes)
-CZ2006 Software engineering\
-CZ3001 Advanced Computer Architecture\
-CZ3005 Artificial Intelligence\
-CZ3006 Net Centric Computing\
-CZ4067 Software Security [MPE]
+CZ2006 Software engineering (no plans)\
+CZ3001 Advanced Computer Architecture (wip)\
+CZ3005 Artificial Intelligence (no plans)\
+CZ3006 Net Centric Computing (wip)\
+CZ4067 Software Security [MPE] (wip)
