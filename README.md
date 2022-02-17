@@ -24,7 +24,7 @@ CZ2002 Object Oriented Design and Programming\
 CZ2005 Operating Systems\
 CZ2100 Probability and Statistics for Computing\
 CZ2101 Algorithm Design and Analysis\
-CZ2007 Introduction to Databases\
+CZ2007 Introduction to Databases (first half only)\
 EE8084 Cybersecurity [UE]
 
 
