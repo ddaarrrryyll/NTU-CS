@@ -23,7 +23,7 @@ MS1014 Materials Chemistery II [EF2 doesn't exist anymore] (no notes)
 CZ2002 Object Oriented Design and Programming\
 CZ2005 Operating Systems\
 CZ2100 Probability and Statistics for Computing\
-CZ2101 Algorithm Design and Analysis\
+CZ2101 Algorithm Design and Analysis (no notes)\
 CZ2007 Introduction to Databases (first half only)\
 EE8084 Cybersecurity [UE]
 
