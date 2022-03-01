@@ -15,7 +15,7 @@ CZ1104 Linear Algebra for Computing\
 CZ1106 Computer Organisation and Architecture\
 CZ1107 Data Structures and Algorithms (no notes)\
 CZ1115 Introduction to Data Science and Artificial Intelligence [GER-Core] (no notes)\
-MS1014 Materials Chemistery II [EF2 doesn't exist anymore] (no notes)
+MS1014 Materials Chemistry II [EF2 doesn't exist anymore] (no notes)
 
 
 ## Y2S1
