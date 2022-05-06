@@ -1,6 +1,6 @@
 # NTU-CS
 ### all modules are core unless otherwise stated
-
+There may be some errors in my notes
 
 ## Y1S1
 ### No Notes
@@ -28,9 +28,9 @@ CZ2007 Introduction to Databases (first half only)\
 EE8084 Cybersecurity [UE]
 
 
-## Y2S2 (current sem, no notes)
-CZ2006 Software engineering (no plans)\
-CZ3001 Advanced Computer Architecture (wip)\
-CZ3005 Artificial Intelligence (no plans)\
-CZ3006 Net Centric Computing (wip)\
-CZ4067 Software Security [MPE] (wip)
+## Y2S2
+CZ2006 Software engineering (no notes)\
+CZ3001 Advanced Computer Architecture\
+CZ3005 Artificial Intelligence (no notes)\
+CZ3006 Net Centric Computing\
+CZ4067 Software Security [MPE]
